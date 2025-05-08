@@ -1,0 +1,5 @@
+[07-May-2025 15:27:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/rsoa72.rehan.school/public_html/airbnb/booking.php:102
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/airbnb/booking.php(102): mysqli->query('SELECT price FR...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/airbnb/booking.php on line 102
